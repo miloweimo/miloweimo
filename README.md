@@ -9,4 +9,3 @@
 - 😄 Pronouns: Him/They/Them
 - ⚡ Fun fact: I love the natural 🍀 wind blowing through me
 
-😁

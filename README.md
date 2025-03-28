@@ -8,4 +8,4 @@
 - 📫 How to reach me: miloweimo@outlook.com
 - 😄 Pronouns: Him/They/Them
 - ⚡ Fun fact: I love the natural 🍀 wind blowing through me
-- 🏠 My homepage: [https://miloweimo.github.io/](https://miloweimo.github.io/article/)
+- 🏠 My homepage: [https://miloweimo.github.io/article/](https://miloweimo.github.io/article/)

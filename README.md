@@ -13,7 +13,6 @@ Hi there 👋<br><br>- 🔭 I’m currently working on elegant Vue & React Proje
 ![](https://nirzak-streak-stats.vercel.app/?user=miloweimo&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miloweimo&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=miloweimo&icon=1&color=3)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miloweimo&label=Profile%20views&color=0e75b6&style=flat" alt="miloweimo" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

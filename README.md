@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-Hi there 👋<br><br>- 🔭 I’m currently working on elegant Vue & React Projects<br>- 🌱 I’m currently learning React Native<br>- 👯 I’m looking to collaborate on trustable People<br>- 🤔 I’m looking for a Job opportunity<br>- 💬 Ask me about anything<br>- 📫 How to reach me: miloweimo[at]outlook.com<br>- 😄 Pronouns: Him/They/Them<br>- ⚡ Fun fact: I love the natural 🍀 wind blowing through me<br>
+Hi there 👋<br><br>- 🔭 I’m currently working on elegant AI Projects<br>- 🌱 I’m currently learning AI~<br>- 👯 I’m looking to collaborate on trustable People<br>- 🤔 I’m looking for a Job opportunity<br>- 💬 Ask me about anything<br>- 📫 How to reach me: miloweimo[at]outlook.com<br>- 😄 Pronouns: Him/They/Them<br>- ⚡ Fun fact: I love the natural 🍀 wind blowing through me<br>
 
 
 ## 💻 Tech Stack:
